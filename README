@@ -1,0 +1,16 @@
+License
+=======
+
+OpenIssueGitHub is a free software under BSD License : <http://www.opensource.org/licenses/bsd-license.php>
+
+Install
+=======
+
+* Copy in your web server
+* Renamme config.php.sample to config.php
+* Edit config.php and complete the parameters
+* It's OK :-)
+
+Authors
+=======
+* Simon Leblanc <contact@leblanc-simon.eu>
